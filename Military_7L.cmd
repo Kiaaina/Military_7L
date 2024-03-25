@@ -1,7 +1,7 @@
 cd /
 :top
 cls
-mod con: lines=6 cols=30
+mode con: lines=6 cols=30
 title "Military_7L"
 @cecho off
 @set "apk=158712351642"
