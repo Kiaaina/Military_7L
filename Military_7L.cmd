@@ -7,7 +7,7 @@ title "Military_7L"
 @set "apk=158712351642"
 @set "app=151643712654"
 @set "iso=141248781643"
-cecho {09}1=apk{/h}2=app{/h}3=iso{04}
+cecho {09}1=apk{\n}2=app{\n}3=iso{04}
 
 set /a m=Choose;
 if (%m%=1) & goto one
